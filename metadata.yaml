@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45669#Wallenstein-II--Wallensteinin-kuolemaRunomittainen-n-ytelm-
 gutenberg_issued: '2014-05-17'
 gutenberg_type: Text
 identifiers:
